@@ -16,7 +16,7 @@ The "Arrays & Hashing" category covers problems that deal with array manipulatio
 
 | Status | Star | Problem | Difficulty | Video Solution | Code |
 |--------|------|---------|------------|----------------|------|
-| [ ]    | [★](#) | Contains Duplicate | Easy | [Link](#) | [Solution](#) |
+| [✓]    | [★](#) | Contains Duplicate | Easy | [Link](#) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ContainsDuplicate.java) |
 | [ ]    | [★](#) | Valid Anagram | Easy | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Two Sum | Easy | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Group Anagrams | Medium | [Link](#) | [Solution](#) |
@@ -25,7 +25,6 @@ The "Arrays & Hashing" category covers problems that deal with array manipulatio
 | [ ]    | [★](#) | Valid Sudoku | Medium | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Encode and Decode Strings | Medium | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Longest Consecutive Sequence | Hard | [Link](#) | [Solution](#) |
-
 
 - **Two Pointers**
 - **Binary Search**
