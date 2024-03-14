@@ -1,6 +1,6 @@
 # LeetCode NeetCode Roadmap Solutions
 
-Welcome to my repository, which is dedicated to solving problems from the LeetCode platform structured around the [NeetCode Roadmap](https://neetcode.io/roadmap). Here, you will find my approaches to the challenges, aiming to help not only myself but also others who are preparing for software engineering interviews or just looking to improve their problem-solving skills.
+Dear fellow developers, welcome to my repository, which is dedicated to solving problems from the LeetCode platform structured around the [NeetCode Roadmap](https://neetcode.io/roadmap). Here, you will find my approaches to the challenges, aiming to help not only myself but also others who are preparing for software engineering interviews or just looking to improve their problem-solving skills.
 
 ## Introduction
 
@@ -70,7 +70,7 @@ I welcome contributions! If you would like to contribute a solution in a differe
 
 ## Issues
 
-If you encounter any issues or have questions about a particular solution, please [open an issue](https://github.com/YourGitHubUsername/leetcode-neetcode-roadmap-solutions/issues) on this repository.
+If you encounter any issues or have questions about a particular solution, please [open an issue](https://github.com/mbrnas/leetcode-roadmap/issues) on this repository.
 
 ## Acknowledgments
 
