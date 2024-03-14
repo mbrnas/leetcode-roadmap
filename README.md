@@ -10,7 +10,10 @@ This repository houses solutions to problems curated by NeetCode, focusing on co
 
 The repository mirrors the NeetCode roadmap and covers the following topics, each in its dedicated directory:
 
-- **Arrays & Hashing**
+# Arrays & Hashing
+
+The "Arrays & Hashing" category covers problems that deal with array manipulation and hash table data structures, focusing on common techniques like mapping and sets.
+
 | Status | Star | Problem | Difficulty | Video Solution | Code |
 |--------|------|---------|------------|----------------|------|
 | [ ]    | [★](#) | Contains Duplicate | Easy | [Link](#) | [Solution](#) |
@@ -22,6 +25,7 @@ The repository mirrors the NeetCode roadmap and covers the following topics, eac
 | [ ]    | [★](#) | Valid Sudoku | Medium | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Encode and Decode Strings | Medium | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Longest Consecutive Sequence | Hard | [Link](#) | [Solution](#) |
+
 
 - **Two Pointers**
 - **Binary Search**
