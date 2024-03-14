@@ -52,9 +52,7 @@ Each directory contains:
 
 Progress through the NeetCode roadmap will be tracked here:
 
-- Arrays & Hashing: X/XX completed
-- Two Pointers: X/XX completed
-- ... (continue for each topic)
+- Arrays & Hashing: 1/9 completed
 
 ## How to Use This Repository
 
