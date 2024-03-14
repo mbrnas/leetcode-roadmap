@@ -78,7 +78,7 @@ This repository is inspired by the NeetCode roadmap. Special thanks to NeetCode 
 
 ## License
 
-This project is open-sourced under the [MIT License](LICENSE.md).
+This project is open-sourced under the [MIT License]([LICENSE.md](https://opensource.org/license/mit)).
 
 Happy coding, and may your journey through these problems sharpen your skills as it has mine!
 
