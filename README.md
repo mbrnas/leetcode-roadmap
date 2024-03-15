@@ -1,6 +1,6 @@
 # LeetCode NeetCode Roadmap Solutions
 
-Dear fellow developers, welcome to my repository, which is dedicated to solving problems from the LeetCode platform structured around the [NeetCode Roadmap](https://neetcode.io/roadmap). Here, you will find my approaches to the challenges, aiming to help not only myself but also others who are preparing for software engineering interviews or just looking to improve their problem-solving skills.
+Fellow devs, welcome to my repository, which is dedicated to solving problems from the LeetCode platform structured around the [NeetCode Roadmap](https://neetcode.io/roadmap). Here, you will find my approaches to the challenges, aiming to help not only myself but also others who are preparing for software engineering interviews or just looking to improve their problem-solving skills.
 
 ## Introduction
 
@@ -45,7 +45,7 @@ The "Arrays & Hashing" category covers problems that deal with array manipulatio
 
 Each directory contains:
 
-- A `README.md` file that outlines the problem and details the thought process behind each solution.
+- Detailed comments in JavaDoc format /**/ which thoroughly explain coding problem and solution.
 - Solution files named after the problem, with a consistent naming convention like `problem_title.extension` (e.g., `two_sum.py`).
 
 ## Progress Tracker
