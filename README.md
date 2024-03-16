@@ -17,7 +17,7 @@ The "Arrays & Hashing" category covers problems that deal with array manipulatio
 | Status | Star | Problem | Difficulty | Video Solution | Code |
 |--------|------|---------|------------|----------------|------|
 | [✓]    | [★](#) | Contains Duplicate | Easy | [Link](https://www.youtube.com/watch?v=3OamzN90kPg) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ContainsDuplicate.java) |
-| [ ]    | [★](#) | Valid Anagram | Easy | [Link](#) | [Solution](#) |
+| [✓]    | [★](#) | Valid Anagram | Easy | [Link](https://www.youtube.com/watch?v=IRN1VcA8CGc) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ValidAnagram.java) |
 | [ ]    | [★](#) | Two Sum | Easy | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Group Anagrams | Medium | [Link](#) | [Solution](#) |
 | [ ]    | [★](#) | Top K Frequent Elements | Medium | [Link](#) | [Solution](#) |
