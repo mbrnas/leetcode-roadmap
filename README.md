@@ -14,18 +14,17 @@ The repository mirrors the NeetCode roadmap and covers the following topics, eac
 
 The "Arrays & Hashing" category covers problems that deal with array manipulation and hash table data structures, focusing on common techniques like mapping and sets.
 
-| Status | Star | Problem | Difficulty      | Video Solution | Code |
-|--------|------|---------|-----------------|----------------|------|
-| [✓]    | [★](#) | Contains Duplicate | Easy 🟢 | [Link](https://www.youtube.com/watch?v=3OamzN90kPg) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ContainsDuplicate.java) |
-| [✓]    | [★](#) | Valid Anagram | Easy 🟢 | [Link](https://www.youtube.com/watch?v=IRN1VcA8CGc) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ValidAnagram.java) |
-| [✓]    | [★](#) | Two Sum | Easy 🟢 | [Link](https://www.youtube.com/watch?v=BoHO04xVeU0) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/TwoSum.java) |
-| [ ]    | [★](#) | Group Anagrams | Medium 🟠 | [Link](#) | [Solution](#) |
-| [ ]    | [★](#) | Top K Frequent Elements | Medium 🟠 | [Link](#) | [Solution](#) |
-| [ ]    | [★](#) | Product of Array Except Self | Medium 🟠 | [Link](#) | [Solution](#) |
-| [ ]    | [★](#) | Valid Sudoku | Medium 🟠 | [Link](#) | [Solution](#) |
-| [ ]    | [★](#) | Encode and Decode Strings | Medium 🟠 | [Link](#) | [Solution](#) |
-| [ ]    | [★](#) | Longest Consecutive Sequence | Hard 🔴 | [Link](#) | [Solution](#) |
-
+| Status | Problem | Difficulty      | Video Solution | Code |
+|--------|---------|-----------------|----------------|------|
+| [✓]    | Contains Duplicate | Easy 🟢 | [Link](https://www.youtube.com/watch?v=3OamzN90kPg) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ContainsDuplicate.java) |
+| [✓]    | Valid Anagram | Easy 🟢 | [Link](https://www.youtube.com/watch?v=IRN1VcA8CGc) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/ValidAnagram.java) |
+| [✓]    | Two Sum | Easy 🟢 | [Link](https://www.youtube.com/watch?v=BoHO04xVeU0) | [Solution](https://github.com/mbrnas/leetcode-roadmap/blob/main/src/main/java/org/company/arraysandhashing/TwoSum.java) |
+| [ ]    | Group Anagrams | Medium 🟠 | [Link](#) | [Solution](#) |
+| [ ]    | Top K Frequent Elements | Medium 🟠 | [Link](#) | [Solution](#) |
+| [ ]    | Product of Array Except Self | Medium 🟠 | [Link](#) | [Solution](#) |
+| [ ]    | Valid Sudoku | Medium 🟠 | [Link](#) | [Solution](#) |
+| [ ]    | Encode and Decode Strings | Medium 🟠 | [Link](#) | [Solution](#) |
+| [ ]    | Longest Consecutive Sequence | Hard 🔴 | [Link](#) | [Solution](#) |
 
 - **Two Pointers**
 - **Binary Search**
